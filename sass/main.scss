@@ -1,0 +1,17 @@
+@import "abstracts/functions";
+@import "abstracts/miminx";
+@import "abstracts/variables";
+
+@import "base/base";
+@import "base/animations";
+@import "base/typography";
+@import "base/utilities";
+
+@import "pages/home";
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
